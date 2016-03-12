@@ -2,3 +2,4 @@
 #Yazılım Mühendisliği Dersi- Ödev1
 ##Katılımcılar
 ###1). UFUK EROL
+###2). FATİH DEMİR
